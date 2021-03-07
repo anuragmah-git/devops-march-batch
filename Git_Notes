@@ -69,6 +69,19 @@ Git Commit structure
 #
 SHA / Version / Revison
 
+#
+Setting up mandatory configurations:
+=============================================
+$ git config --global user.name "swapnil"
+$ git config --global user.email "abc@gmail.com"
+
+$ git config --global credential.helper cache
+
+Check the configurations using below command
+$ git config --list
+
+Git stores all configurations in below file
+"/home/swapnil/.gitconfig"
 
 
 
