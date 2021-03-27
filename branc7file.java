@@ -1,5 +1,4 @@
 hellooooooo
 all
-devops for git
-
+learn devops
 
